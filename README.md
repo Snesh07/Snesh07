@@ -1,7 +1,7 @@
 <!-- Banner -->
-<p align="center">
+<!-- <p align="center">
   <img src="/mnt/data/b7da276f-faaf-40ff-90e0-639a4bb3e0ca.png" alt="banner" width="1000"/>
-</p>
+</p>  -->
 
 <h1 align="center">Hi — I'm <strong>Sneha</strong> 👋</h1>
 
