@@ -4,8 +4,10 @@
 </p>
 
 # Hi — I’m **Sneha** 👋  
-**Project Manager • Full-Stack Builder • UI/UX Maestro**  
-Driving product-focused engineering + creative systems at **Creative Studio 24**.
+**Full-Stack Engineer • Project Manager • Product Builder**  
+Focused on building scalable, user-centric digital experiences across web, mobile, and SaaS ecosystems. I combine hands-on engineering with structured project leadership to deliver products that are clean, efficient, and aligned to real-world impact.
+
+
 
 ---
 
@@ -16,29 +18,35 @@ Driving product-focused engineering + creative systems at **Creative Studio 24**
 
 ---
 
-## 🧰 Tech Stack
-<p>
-  <!-- Core Development -->
-  <img alt="React" src="https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB" />
-  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" />
-  
-  <!-- Design -->
-  <img alt="Figma" src="https://img.shields.io/badge/-Figma-0ACF83?logo=figma&logoColor=white" />
-  <img alt="Canva" src="https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white" />
+### **Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-  <!-- Productivity & PM -->
-  <img alt="Notion" src="https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white" />
-  <img alt="Jira" src="https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white" />
-  <img alt="Asana" src="https://img.shields.io/badge/-Asana-F06A6A?logo=asana&logoColor=white" />
+### **Backend & Database**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat&logo=mongodb&logoColor=white)
 
-  <!-- DevOps & Tools -->
-  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" />
-  <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white" />
-</p>
+### **DevOps & Infrastructure**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat&logo=pm2&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-blue?style=flat)
+
+### **Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Asana](https://img.shields.io/badge/Asana-F06A6A?style=flat&logo=asana&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+---
 
 
 ---
