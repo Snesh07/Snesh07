@@ -10,8 +10,9 @@
 </p>
 
 <p align="center">
-Focused on creating clean, scalable, and user-centric digital products.  
-I work across engineering, deployment, and structured project execution to deliver high-quality solutions grounded in real-world requirements.
+  Building software that's clean under the hood and smooth in the hands of users.<br/>
+  I bring together full-stack engineering, reliable deployment, and sharp project thinking
+  to ship solutions that actually hold up in the real world.
 </p>
 
 ---
@@ -78,11 +79,11 @@ Project Planning • Requirement Gathering • Agile/Scrum • Sprint Management
 
 ## 📊 <span style="background: linear-gradient(90deg, #3B82F6, #9333EA); -webkit-background-clip: text; color: transparent;">GitHub Overview</span>
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snesh07&layout=compact&theme=dark&hide_border=true" height="165" />
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Snesh07&theme=dark&hide_border=true" height="165"/>
-</p>
+  <img src="https://streak-stats.demolab.com/?user=Snesh07&theme=dark&hide_border=true" height="165" />
+</div>
 
 ---
 
