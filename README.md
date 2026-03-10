@@ -82,7 +82,7 @@ Project Planning • Requirement Gathering • Agile/Scrum • Sprint Management
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snesh07&layout=compact&theme=dark&hide_border=true" height="165" />
   &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com/?user=Snesh07&theme=dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snesh07&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" height="165" />
 </div>
 
 ---
