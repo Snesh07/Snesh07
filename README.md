@@ -80,9 +80,9 @@ Project Planning • Requirement Gathering • Agile/Scrum • Sprint Management
 ## 📊 <span style="background: linear-gradient(90deg, #3B82F6, #9333EA); -webkit-background-clip: text; color: transparent;">GitHub Overview</span>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snesh07&layout=compact&theme=dark&hide_border=true" height="165" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snesh07&layout=compact&theme=dark&hide_border=true" height="165" /> -->
   &nbsp;&nbsp;
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Snesh07&theme=dark&hide_border=true" height="165" /> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Snesh07&theme=dark&hide_border=true" height="165" />
 </div>
 
 
