@@ -3,7 +3,7 @@
   <img src="/mnt/data/b7da276f-faaf-40ff-90e0-639a4bb3e0ca.png" alt="banner" width="1000"/>
 </p>  -->
 
-<h1 align="center">Hi — I'm <strong>Sneha</strong> 👋</h1>
+<h1 align="center">Hi! I'm <strong>Sneha</strong> 👋</h1>
 
 <p align="center">
   <strong>Full-Stack Engineer • Project Manager • Product Builder</strong>
@@ -82,7 +82,7 @@ Project Planning • Requirement Gathering • Agile/Scrum • Sprint Management
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snesh07&layout=compact&theme=dark&hide_border=true" height="165" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Snesh07&theme=dark&hide_border=true" height="165" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Snesh07&theme=dark&hide_border=true" height="165" /> -->
 </div>
 
 
