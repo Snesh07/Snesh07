@@ -82,9 +82,8 @@ Project Planning • Requirement Gathering • Agile/Scrum • Sprint Management
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snesh07&layout=compact&theme=dark&hide_border=true" height="165" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snesh07&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Snesh07&theme=dark&hide_border=true" height="165" />
 </div>
-
 ---
 
 ## 🎓 <span style="background: linear-gradient(90deg, #06B6D4, #3B82F6); -webkit-background-clip: text; color: transparent;">Continuous Learning</span>
